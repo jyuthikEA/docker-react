@@ -1,4 +1,3 @@
-language: generic
 sudo: required
 services:
   - docker   #adding a copy of docker
